@@ -27,25 +27,34 @@ This tutorial onlines making a virtual machine using Azure.<br />
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7QWCkmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open your browser and log into your Azure account, create one if you don't have one. Once logged in, you can either click on the virtual machine icon or type in the word virtual machine into the search bar.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2h8By3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click create. Select Azure virtual machine. Select your subscription then go to resource group. If you don't have one, click create new. Name your Virtual machine, select your region. For image, I'm selecting windows 10 pro, ver 22H2. Size will be standard, 2 vcpus with 1 gib memory. Fill Administrator account section out with a username and password. Make it what you want, and don't forget to write it down! Checkmark Licensing box, then click review+create. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qyOLvl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Price review will appear, letting you know how much you will pay per hour for using the VM. Price per month is also included too. 
 </p>
+<img src="https://i.imgur.com/3XniGfh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click create. Azure is working to create your VM. It will say "deployment is in progress". This will take a bit. Once finished, it will say deployment is complete. 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/qMGehrj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  Click on view resource and there you have it! You've just created a virtual machine! 
 </p>
+<img src="https://i.imgur.com/gVVdfdP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
