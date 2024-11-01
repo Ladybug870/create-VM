@@ -10,7 +10,7 @@ This tutorial onlines making a virtual machine using Azure.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-
+- Windows 10
 
 <h2>Operating Systems Used </h2>
 
